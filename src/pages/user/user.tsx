@@ -5,6 +5,7 @@ export default function IndexPage() {
   return (
     <div>
       <h1 className={styles.title}>user inner</h1>
+      <h2>逗你玩</h2>
     </div>
   );
 }
