@@ -6,6 +6,7 @@ const IndexPage = (props) => {
   console.log('process.env:', process, process.env);
   return (
     <div>
+      <h1>hello world</h1>
       <h1 className={styles.title}>{data.title}</h1>
     </div>
   );
