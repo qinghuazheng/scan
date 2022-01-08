@@ -7,7 +7,6 @@ const IndexPage = (props) => {
   return (
     <div>
       <h1 className={styles.title}>{data.title}</h1>
-      <h1 className={styles.title}>Page index inner</h1>
     </div>
   );
 }
